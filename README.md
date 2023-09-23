@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damilola</h1>
-<h3 align="center">A passionate flutter developer from Nigeria</h3>
+<h3 align="center">A passionate flutter/backend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longman14&label=Profile%20views&color=0e75b6&style=flat" alt="longman14" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/damilolaolu" target="blank"><img src="https://img.shields.io/twitter/follow/damilolaolu?logo=twitter&style=for-the-badge" alt="damilolaolu" /></a> </p>
 
-- 🌱 I’m currently learning **flutter, dart, javascript, react**
+- 🌱 I’m currently learning **flutter, dart, javascript & node**
 
 - 📫 How to reach me **hassandamilola580@gmail.com**
 
-- ⚡ Fun fact **I'm a jovial introvert, music addict, and a lover of positive vibes.**
+- ⚡ Fun fact **I'm a jovial introvert, music addict, and lover of positive vibes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
