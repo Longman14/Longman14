@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/damilolaolu" target="blank"><img src="https://img.shields.io/twitter/follow/damilolaolu?logo=twitter&style=for-the-badge" alt="damilolaolu" /></a> </p>
 
-- 🌱 I’m currently learning **react, flutter, dart, javascript & node**
+- 🌱 I’m currently learning **react, next js, javascript, typescript & node**
 
 - 📫 How to reach me **hassandamilola580@gmail.com**
 
